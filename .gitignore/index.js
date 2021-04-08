@@ -37,5 +37,5 @@ var scan = setInterval(() => {
       });
 
 
-}, 10000);
+}, 60000);
 scan
